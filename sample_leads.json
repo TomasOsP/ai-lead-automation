@@ -1,0 +1,18 @@
+[
+  {
+    "id": "lead_001",
+    "name": "John Doe",
+    "email": "john.doe@email.com",
+    "phone": "+14155552671",
+    "case_type": "car accident",
+    "description": "Rear-ended at a stoplight, minor injuries"
+  },
+  {
+    "id": "lead_002",
+    "name": "",
+    "email": "invalid-email",
+    "phone": "12345",
+    "case_type": "unknown",
+    "description": "N/A"
+  }
+]

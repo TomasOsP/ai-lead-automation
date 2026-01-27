@@ -1,0 +1,18 @@
+[
+  {
+    "lead_id": "lead_001",
+    "decision": "APPROVED",
+    "rule_errors": [],
+    "llm_reason": "Clear description and valid contact info"
+  },
+  {
+    "lead_id": "lead_002",
+    "decision": "REJECTED",
+    "rule_errors": [
+      "Missing name",
+      "Invalid email",
+      "Description too short"
+    ],
+    "llm_reason": ""
+  }
+]
